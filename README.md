@@ -1,2 +1,8 @@
-# Test-git
-test the git upload
+# SchoolProject
+Some random school project
+
+#GAME NAME IS DANCING WOLF
+
+ALL FILE HAVE BEEN SLICED PLEASE EXTRACT ALL FIRST
+
+LICENSE ARE NONE IF YOU WANT TO USE IT USE IT AS YOU WANT.
