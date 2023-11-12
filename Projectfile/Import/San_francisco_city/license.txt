@@ -1,0 +1,11 @@
+Model Information:
+* title:	San_francisco_city
+* source:	https://sketchfab.com/3d-models/san-francisco-city-2d16027c9b1d41e383066ee0f8a8fa49
+* author:	shoh._.totsamiy (https://sketchfab.com/mahmudasohzahon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "San_francisco_city" (https://sketchfab.com/3d-models/san-francisco-city-2d16027c9b1d41e383066ee0f8a8fa49) by shoh._.totsamiy (https://sketchfab.com/mahmudasohzahon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
